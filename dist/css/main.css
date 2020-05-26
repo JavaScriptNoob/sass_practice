@@ -474,3 +474,9 @@ img {
 @media (max-height: 340px) {
   #header-home .header-content h1 {
     font-size: 2rem; } }
+
+@media (min-height: 1240px) {
+  #contact-a {
+    height: 50%;
+    margin-top: calc(1.6%*2);
+    margin-bottom: calc(1.6%*2); } }
